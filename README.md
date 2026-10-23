@@ -48,6 +48,10 @@ Arduino UNO와 I2C LCD를 사용하는 경우 다음과 같이 연결한다.
 
 Arduino UNO에서 A4는 SDA, A5는 SCL의 역할을 한다.
 
+
+<img width="733" height="419" alt="image" src="https://github.com/user-attachments/assets/bf81c7e9-5543-40d6-a470-57ddb7641f17" />
+
+
 ---
 
 ## 4. Arduino Code
